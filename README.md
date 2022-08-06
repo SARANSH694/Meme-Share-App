@@ -16,4 +16,11 @@ as share the memes using the intent function of the android.
 
 - Working sreenshots
 
+<img src="Screenshots/1.png" alt="screenshot" width="200"/>    <img src="Screenshots/2.png" alt="screenshot" width="200" /> <img src="Screenshots/share2.png" alt="screenshot" width="200" />
+
+
+
+
 - Share screenshot
+
+<img src="Screenshots/share1.png" alt="screenshot" width="200"/>    
